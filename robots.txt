@@ -1,1 +1,4 @@
+# Algolia-Crawler-Verif: XXXX
 
+User-Agent: *
+Allow: /
