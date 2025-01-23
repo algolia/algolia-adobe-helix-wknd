@@ -268,7 +268,7 @@ export default function decorate(block) {
                       <div style="position: relative; display: flex; flex-shrink: 0; flex-grow: 1; flex-direction: column; padding: 1rem; padding-bottom:0; ">
                         <div style="position: relative;">
                           <div style="margin-left: auto; margin-right: auto; aspect-ratio: 1 / 1; width: 80% padding: 1rem;">
-                            <img style="max-width: 100%; height: auto; aspect-ratio: 1 / 1; width: 100%; object-fit: contain;" src="https://publish-p28413-e1511338.adobeaemcloud.com${item.image[0]}" />
+                            <img style="max-width: 100%; height: auto; aspect-ratio: 1 / 1; width: 100%; object-fit: contain;" src="https://publish-p28413-e1511338.adobeaemcloud.com${item.image}" />
                           </div>
                         </div>
                         <div style="position: relative; display: flex; flex-grow: 1; flex-direction: column; margin-bottom: 1rem;">
